@@ -1,0 +1,46 @@
+{
+    "categories": [
+        {
+            "name": "Honda",
+            "subcategory": [
+                "City"
+            ]
+        },
+        {
+            "name": "Hundai",
+            "subcategory": [
+                "Palisade"
+            ]
+        },
+        {
+            "name": "Nissan ",
+            "subcategory": [
+                "Almera"
+            ]
+        },
+        {
+            "name": "Proton",
+            "subcategory": [
+                "S70"
+            ]
+        },
+        {
+            "name": "Suzuki",
+            "subcategory": [
+                "Ciaz"
+            ]
+        },
+        {
+            "name": "Tata",
+            "subcategory": [
+                "Tigor"
+            ]
+        },
+        {
+            "name": "Toyota",
+            "subcategory": [
+                "Altis"
+            ]
+        }
+    ]
+}
