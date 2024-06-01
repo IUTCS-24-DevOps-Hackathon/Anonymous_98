@@ -1,0 +1,1 @@
+Welcome to Astarion's Garage! This repository contains the implementation of a scalable, secure, and efficient platform for connecting car sellers and buyers across the country, designed as part of a DevOps hackathon.
